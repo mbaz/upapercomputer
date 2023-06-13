@@ -1,0 +1,11 @@
+i 0 lod 1 10
+i 1 lod 2 11
+i 2 mul 1 2
+i 3 sto 12 1
+i 4 lod 3 12
+i 5 lod 4 11
+i 6 mul 3 4
+i 7 sto 10 3
+i 8 hlt 0 0
+d 10 5
+d 11 10
