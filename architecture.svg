@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="2"
-     inkscape:cx="122.5"
-     inkscape:cy="211.25"
+     inkscape:cx="124"
+     inkscape:cy="215.75"
      inkscape:window-width="1910"
      inkscape:window-height="1057"
      inkscape:window-x="5"
@@ -84,12 +84,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect3397"
+       width="370.54626"
+       height="405.13892"
+       x="3.0922852"
+       y="4.8459015"
+       inkscape:export-filename="architecture.png"
+       inkscape:export-xdpi="152.82295"
+       inkscape:export-ydpi="152.82295" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
        x="30.835365"
        y="66.600784"
-       id="text846"><tspan
+       id="text846"
+       inkscape:export-filename="architecture.png"
+       inkscape:export-xdpi="152.82295"
+       inkscape:export-ydpi="152.82295"><tspan
          sodipodi:role="line"
          x="30.835365"
          y="66.600784"
@@ -442,15 +455,17 @@
        id="path2162" />
     <path
        style="fill:#0078f0;fill-opacity:1;stroke:#0078f0;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1627);marker-end:url(#marker1627)"
-       d="m 142.73891,226.98767 c 68.83874,-0.56613 68.83874,-0.56613 68.83874,-0.56613"
-       id="path2168" />
+       d="m 142.82299,226.22718 68.63063,-0.18196"
+       id="path2168"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:#0078f0;fill-opacity:1;stroke:#0078f0;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1627);marker-end:url(#marker1627)"
-       d="m 143.10281,256.03854 c 68.83874,-0.56613 68.83874,-0.56613 68.83874,-0.56613"
-       id="path2178" />
+       d="m 143.05976,256.03773 68.31277,-0.12288"
+       id="path2178"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:#0078f0;fill-opacity:1;stroke:#0078f0;stroke-width:0.699997;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1627);marker-end:url(#marker1627)"
-       d="m 218.37483,156.15958 61.31826,-0.24413"
+       d="m 218.55768,140.72205 61.33643,-0.14817"
        id="path2188"
        sodipodi:nodetypes="cc" />
     <path
@@ -524,7 +539,7 @@
        id="path2977" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1627)"
-       d="m 229.86185,272.11071 -113.9931,-0.10304 0.14463,-6.13995"
+       d="m 230.48613,304.45116 -113.9931,-0.10304 0.14463,-6.13995"
        id="path3063" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1627)"
@@ -588,5 +603,80 @@
          id="tspan3285"
          x="167.02267"
          y="20.514709">μ-Paper Computer</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:0.699999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1627)"
+       d="m 281.81641,299.83752 c -15.93092,0.0504 -31.8621,-0.20766 -47.79296,-0.078"
+       id="path3410"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:0.699999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1627)"
+       d="m 232.91424,172.13362 c 15.93092,0.0504 31.8621,-0.20766 47.79296,-0.078"
+       id="path3821"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="327.93027"
+       y="218.58815"
+       id="text3953"><tspan
+         sodipodi:role="line"
+         id="tspan3951"
+         x="327.93027"
+         y="218.58815" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:normal;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.7;-inkscape-stroke:none;stop-color:#000000"
+       x="284.96179"
+       y="174.21167"
+       id="text3957"><tspan
+         sodipodi:role="line"
+         id="tspan3955"
+         x="284.96179"
+         y="174.21167">r/w</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:normal;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.7;-inkscape-stroke:none;stop-color:#000000"
+       x="284.46881"
+       y="157.70465"
+       id="text3961"><tspan
+         sodipodi:role="line"
+         id="tspan3959"
+         x="284.46881"
+         y="157.70465">address</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:normal;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.7;-inkscape-stroke:none;stop-color:#000000"
+       x="283.79898"
+       y="142.33684"
+       id="text3965"><tspan
+         sodipodi:role="line"
+         id="tspan3963"
+         x="283.79898"
+         y="142.33684">data</tspan></text>
+    <path
+       style="fill:#0078f0;fill-opacity:1;stroke:#0078f0;stroke-width:0.699997;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1627);marker-end:url(#marker1627)"
+       d="m 218.76592,154.93712 61.33643,-0.14817"
+       id="path3967"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:normal;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.7;-inkscape-stroke:none;stop-color:#000000"
+       x="284.56598"
+       y="289.9487"
+       id="text4403"><tspan
+         sodipodi:role="line"
+         id="tspan4401"
+         x="284.56598"
+         y="289.9487">address</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:normal;font-family:'Iosevka MB';-inkscape-font-specification:'Iosevka MB, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.7;-inkscape-stroke:none;stop-color:#000000"
+       x="284.26523"
+       y="302.61359"
+       id="text4407"><tspan
+         sodipodi:role="line"
+         id="tspan4405"
+         x="284.26523"
+         y="302.61359">control signals</tspan></text>
   </g>
 </svg>
